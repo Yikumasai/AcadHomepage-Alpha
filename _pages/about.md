@@ -27,7 +27,6 @@ Very interested in lasers and nano-optics.
 
 # 📖 Educations
 - *2020.06 - 2024.09 (now)*, Undergraduate of Nanjing University of Information Science and Technology. 
-A data-driven personal website
 
 # 📄 CV
 - [Download](https://pv4t-my.sharepoint.com/:b:/g/personal/jockerror_pv4t_onmicrosoft_com/ERZkN3bUcCZLs4wRC9LRK-UBJSTHicsJydiOzhKED8kPpg?e=wJXfDD)
