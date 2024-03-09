@@ -6,9 +6,9 @@ redirect_from:
   - /md/
   - /zh.html
 ---
-Undergraduate of Nanjing University of Information Science and Technology.
+南京信息工程大学本科生.
 
-Very interested in lasers and nano-optics.
+对激光、光通信、屏幕显示、纳米光学方向感兴趣.
 
 # 📝 科研经历 
 - **项目 1**: 高效率紫外发射氧化锌薄膜的制备及其在紫外发光器件中的应用研究 (导师: 徐林华 副教授).
