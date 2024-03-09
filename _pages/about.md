@@ -1,15 +1,36 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "LiKanglin's academicpages"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Undergraduate of Nanjing University of Information Science and Technology.
 
+Very interested in lasers and nano-optics.
+
+# 📝 Publications 
+- **Project 1**: Preparation of high efficiency UV-emitting zinc oxide films and their application in UV-emitting devices (supervisor: Associate Professor. Linhua Xu)
+<br>Achievement: ZnO whiskers were first prepared by reactive evaporation, and then the surface properties of the ZnO whiskers were changed by ultraviolet (UV) irradiation.
+- **Project 2**: Study of spatially synchronous phase shift interferometric system based on Michelson interferometer (supervisor: Associate Professor. Xuhua Wu)
+<br>Achievement: Obtain an interferometric image of the anti-shock and calculate the object surface position information from the interferogram.
+# 🎖 Honors and Awards
+- *2022.12* Merit Student at Nanjing University of Information Science and Technology
+- *2022.11* 
+- *2022.11*	National Encouragement Scholarship
+- *2022.05*	Second Prize of Heng Yu Cup-Metallographic Skills Competition for College Students at Nanjing University of Information Science and Technology
+- *2021.12*	Merit Student at Nanjing University of Information Science and Technology
+- *2021.11*	National Encouragement Scholarship
+- *2021.05*	Third Prize of the 4th Higher Mathematics Competition at Nanjing University of Information Science and Technology
+
+# 📖 Educations
+- *2020.06 - 2024.09 (now)*, Undergraduate of Nanjing University of Information Science and Technology. 
 A data-driven personal website
+
+# 📄 CV
+- [Download](https://pv4t-my.sharepoint.com/:b:/g/personal/jockerror_pv4t_onmicrosoft_com/ERZkN3bUcCZLs4wRC9LRK-UBJSTHicsJydiOzhKED8kPpg?e=wJXfDD)
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
