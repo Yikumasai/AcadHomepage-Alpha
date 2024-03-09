@@ -9,7 +9,7 @@ redirect_from:
 
 Undergraduate of Nanjing University of Information Science and Technology.
 
-Very interested in lasers and nano-optics.
+Interested in the direction of lasers, optical communications, screen displays, and nano optics.
 
 # 📝 Publications 
 - **Project 1**: Preparation of high efficiency UV-emitting zinc oxide films and their application in UV-emitting devices (supervisor: Associate Professor. Linhua Xu)
