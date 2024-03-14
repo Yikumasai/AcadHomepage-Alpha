@@ -18,7 +18,7 @@ Interested in the direction of lasers, optical communications, screen displays, 
 <br>Achievement: Obtain an interferometric image of the anti-shock and calculate the object surface position information from the interferogram.
 # 🎖 Honors and Awards
 - *2022.12* Merit Student at Nanjing University of Information Science and Technology
-- *2022.11* [Second Prize in The 19th Higher Mathematics Competition for Jiangsu Higher Education Institutions](https://exmail.qq.com/cgi-bin/ftnDownload302?sid=V0xJZY-GBot5akYj,2&fid=72%2F947e35be-d97f-415e-9eec-a4ba8c0c60e8&code=2108a2fc&k=683130381a44909c29dbbd14463251511d08040f04015301571c540156544b5703045515585703001f50045a000a05535107005d5932426387ebfa96dff7db8f8f9cfbedab93debc87f9fac5b095d8d9facd86c6d4fadbd21c415e5f610c&play=1)
+- *2022.11* [Second Prize in The 19th Higher Mathematics Competition for Jiangsu Higher Education Institutions](https://lkl-shanghai.obs.cn-east-3.myhuaweicloud.com/%E8%AF%81%E4%B9%A6/%E7%AC%AC%E5%8D%81%E4%B9%9D%E5%B1%8A%E6%B1%9F%E8%8B%8F%E7%9C%81%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E4%BA%8C%E7%AD%89%E5%A5%96.png)
 - *2022.11*	National Encouragement Scholarship
 - *2022.05*	Second Prize of Heng Yu Cup-Metallographic Skills Competition for College Students at Nanjing University of Information Science and Technology
 - *2021.12*	Merit Student at Nanjing University of Information Science and Technology
