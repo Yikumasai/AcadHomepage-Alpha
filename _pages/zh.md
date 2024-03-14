@@ -23,7 +23,7 @@ redirect_from:
 - *2021.12*	南京信息工程大学三好学生
 - *2021.11*	国家励志奖学金
 - *2021.05*	第四届南京信息工程大学高等数学竞赛三等奖
-# 📖 Educations
+# 📖 学习经历
 - *2020.06 - 2024.09 (现在)*, 南京信息工程大学本科生
 # 🖇️ 其他
 - [阿里云ACA-数据中心IT初级运维工程师认证](https://lkl-shanghai.oss-cn-shanghai.aliyuncs.com/%E8%AF%81%E4%B9%A6/%E9%98%BF%E9%87%8C%E4%BA%91ACA%E8%AF%81%E4%B9%A6%EF%BC%88%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83IT%E5%88%9D%E7%BA%A7%E8%BF%90%E7%BB%B4%E5%B7%A5%E7%A8%8B%E5%B8%88%EF%BC%89.png) 
