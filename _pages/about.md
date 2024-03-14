@@ -19,7 +19,7 @@ Interested in the direction of lasers, optical communications, screen displays, 
 # 🎖 Honors and Awards
 - *2022.12* Merit Student at Nanjing University of Information Science and Technology
 - *2022.11* [Second Prize in The 19th Higher Mathematics Competition for Jiangsu Higher Education Institutions](https://lkl-shanghai.obs.cn-east-3.myhuaweicloud.com/%E8%AF%81%E4%B9%A6/%E7%AC%AC%E5%8D%81%E4%B9%9D%E5%B1%8A%E6%B1%9F%E8%8B%8F%E7%9C%81%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E4%BA%8C%E7%AD%89%E5%A5%96.png)
-- *2022.11*	National Encouragement Scholarship
+- *2022.11*	[National Encouragement Scholarship](/images/2022国家励志奖学金.png)
 - *2022.05*	Second Prize of Heng Yu Cup-Metallographic Skills Competition for College Students at Nanjing University of Information Science and Technology
 - *2021.12*	Merit Student at Nanjing University of Information Science and Technology
 - *2021.11*	National Encouragement Scholarship
