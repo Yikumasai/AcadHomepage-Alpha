@@ -12,7 +12,7 @@ Undergraduate of Nanjing University of Information Science and Technology.
 Interested in the direction of lasers, optical communications, screen displays, and nano optics.
 
 # 📝 Publications 
-- **Project 1**: Preparation of high efficiency UV-emitting zinc oxide films and their application in UV-emitting devices (supervisor: Associate Professor. Linhua Xu)
+- [**Project 1**](https://lkl-shanghai.oss-cn-shanghai.aliyuncs.com/%E8%AF%81%E4%B9%A6/%E6%9C%AC%E7%A7%91%E9%A1%B9%E7%9B%AE%201.png): Preparation of high efficiency UV-emitting zinc oxide films and their application in UV-emitting devices (supervisor: Associate Professor. Linhua Xu)
 <br>Achievement: ZnO whiskers were first prepared by reactive evaporation, and then the surface properties of the ZnO whiskers were changed by ultraviolet (UV) irradiation.
 - **Project 2**: Study of spatially synchronous phase shift interferometric system based on Michelson interferometer (supervisor: Associate Professor. Xuhua Wu)
 <br>Achievement: Obtain an interferometric image of the anti-shock and calculate the object surface position information from the interferogram.
